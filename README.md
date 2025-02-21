@@ -2,8 +2,8 @@
 
 ## Authors
 
-	•	Matteo Caviglia - ID: 513026
-	•	Marco Bares - ID: 513283
+	•	Matteo Caviglia 
+	•	Marco Bares
 
 ## Project Outline
 
